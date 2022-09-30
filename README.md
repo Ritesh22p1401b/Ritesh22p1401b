@@ -1,6 +1,5 @@
 ### Hi there 👋
-
+$# I'm BackEnd Develpoer.
 🌱 I’m currently learning Rest API 
 
-[Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b
-&show_icons=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh Pandey)](https://github.com/anuraghazra/github-readme-stats)
