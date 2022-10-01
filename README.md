@@ -1,4 +1,4 @@
-### Hi there, I'm Ritesh 👋
+### Hi I'm Ritesh 👋
 $# I'm BackEnd Develpoer.
 🌱 I’m currently learning Rest API 
 
