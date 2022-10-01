@@ -16,5 +16,5 @@
 
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox)
 <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
