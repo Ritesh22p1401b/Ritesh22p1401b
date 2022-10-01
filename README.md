@@ -1,7 +1,16 @@
 ### Hi 👋, I'm Ritesh Pandey.
 
 - I'm Django Develpoer.
-🌱 I’m currently learning Rest API 
+🌱 I’m currently learning Rest API
+
+<br/>
+----
+### 🧰 Languages and Tools
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="Django" width="30px" style="padding-right:10px;" src="https://static.djangoproject.com/img/logos/django-logo-negative.png"/>
+
+
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![Ritesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ritesh22p1401b&theme=react-dark&hide_border=true&area=true)
