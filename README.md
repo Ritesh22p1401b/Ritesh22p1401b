@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Ritesh.
 
-- I'm Django Develpoer.
+- I'm Python/Django Developer.
 🌱 I’m currently learning Rest API.
 
 
