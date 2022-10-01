@@ -1,6 +1,6 @@
-### Hi There 👋, I'm Ritesh Pandey.
+### Hi 👋, I'm Ritesh Pandey.
 
-### I'm BackEnd Develpoer.
+- I'm Django Develpoer.
 🌱 I’m currently learning Rest API 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17,3 +17,5 @@
 <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+ ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
