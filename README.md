@@ -8,7 +8,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ritesh22p1401b&theme=dark&hide_border=true")](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh22p1401b&theme=gruvbox&border_radius=4.5)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
@@ -18,4 +18,3 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5)
