@@ -1,5 +1,7 @@
-### Hi I'm Ritesh 👋
-$## I'm BackEnd Develpoer.
+### Hi There 👋, I'm Ritesh Pandey.
+<img src="https://img.freepik.com/free-vector/cloud-hosting-concept-illustration_114360-730.jpg?w=740&t=st=1664633502~exp=1664634102~hmac=5065f06779c5311549e3f96b04ecd5e82b13f6445a6c145b4094d8716f983378" allign="right">
+
+### I'm BackEnd Develpoer.
 🌱 I’m currently learning Rest API 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
