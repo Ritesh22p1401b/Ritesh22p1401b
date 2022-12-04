@@ -21,9 +21,6 @@
 <br/>
 
 
-## 
-![Ritesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ritesh22p1401b&theme=react-dark&hide_border=true&area=true)
---
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh22p1401b&theme=gruvbox&border_radius=4.5)
