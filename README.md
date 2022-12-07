@@ -23,7 +23,7 @@
 
 ---
 ##  Contributation Graph
-[![Ritesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritesh22p1401b)](https://github.com/Ritesh22p1401b/github-readme-activity-graph)
+[![Ritesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Ritesh22p1401b&theme=dracula)](https://github.com/Ritesh22p1401b/github-readme-activity-graph)
 
 ## 🔥 Streak Stats
 
