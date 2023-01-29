@@ -2,8 +2,7 @@
 
 - I'm Python/Django Developer.
 🌱 I’m currently learning Rest API.
-- Learning DSA.
-- Learning C++ Programming Language
+- Learning DSA with C++ Programming Language.
 
 
 ---
