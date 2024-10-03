@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="https://github.com/Ritesh22p1401b/home.html" alt="Hi, I'm Ritesh 👋 I'm an 🚀 Indian Developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
+
+
+
 ### Hi 👋, I'm Ritesh.
 
 - I'm Python/Django Developer.
