@@ -1,4 +1,4 @@
-![Hey there, I'm Ritesh. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Ritesh22p1401b/index.html)
+![Hey there, I'm Ritesh. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Ritesh22p1401b/Ritesh22p1401b/index.html)
 
 
 
