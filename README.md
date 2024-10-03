@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Ritesh22p1401b/home.html" alt="Hi, I'm Ritesh 👋 I'm an 🚀 Indian Developer 🚀 I ❤️ Happy Hardcore ❤️">
-</p>
+![Hey there, I'm Ritesh. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/CyrisXD/CyrisXD/raw/master/header.gif)
 
 
 
