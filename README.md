@@ -37,7 +37,8 @@
 ![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=Ritesh22p1401b.Ritesh22p1401b)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
-
+[![Ritesh's GitHub | Dependencies](https://stats.quine.sh/Ritesh22p1401b/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=bap)
+[![Ritesh's GitHub | Stats](https://stats.quine.sh/Ritesh22p1401b/github?theme=light)](https://quine.sh)
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox)
 <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
