@@ -40,7 +40,6 @@
 </a>
 
 
-![snake gif](https://github.com/Ritesh22p1401b/Ritesh22p1401b/blob/output/github-contribution-grid-snake.gif)
 
 
 
