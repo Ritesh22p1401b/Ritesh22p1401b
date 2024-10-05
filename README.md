@@ -1,7 +1,3 @@
-![Hey there, I'm Ritesh. I'm a software developer, a maker and infosec enthusiast. Check out my work](https://github.com/Ritesh22p1401b/Ritesh22p1401b/index.html)
-
-
-
 
 ### Hi 👋, I'm Ritesh.
 
@@ -30,7 +26,6 @@
 
 ---
 
-
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh22p1401b&theme=gruvbox&border_radius=4.5)
@@ -38,10 +33,14 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
 
-[![Ritesh's GitHub | Dependencies](https://stats.quine.sh/Ritesh22p1401b/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Ritesh22p1401b)
-[![Ritesh's GitHub | Stats](https://stats.quine.sh/Ritesh22p1401b/github?theme=light)](https://quine.sh)
 ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox)
 
 <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+
+
+![snake gif](https://github.com/Ritesh22p1401b/Ritesh22p1401b/blob/output/github-contribution-grid-snake.gif)
+
+
+
