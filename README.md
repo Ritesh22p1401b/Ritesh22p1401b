@@ -28,15 +28,15 @@
 
 ## 🔥 Streak Stats
 
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh22p1401b&theme=gruvbox&border_radius=4.5)
 ![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=Ritesh22p1401b.Ritesh22p1401b)
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
 
-![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox)
-<a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b">
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&&langs_count=8"/>
-</a>
+| ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox) | <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b"><img align="center" alt="Top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true"/></a> |
+| ------------- | ------------- |
+
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh22p1401b/Ritesh22p1401b/output/github-contribution-grid-snake-dark.svg" />
