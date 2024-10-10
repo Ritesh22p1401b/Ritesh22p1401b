@@ -44,6 +44,10 @@
 | ![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ritesh22p1401b&show_icons=true&theme=gruvbox) | <a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b"><img align="center" alt="Top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true"/></a> |
 | ------------- | ------------- |
 
+<div>
+  <img src="https://www.gitclear.com/chart_glimpses/23ff3857-e91d-459c-9404-07d71d43b091.png" width="1920">
+</div>
+
 
 <div align="center">
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ritesh22p1401b/Ritesh22p1401b/output/github-contribution-grid-snake-dark.svg" />
