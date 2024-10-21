@@ -38,7 +38,13 @@
 
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Ritesh22p1401b&theme=gruvbox&border_radius=4.5)
-![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=Ritesh22p1401b.Ritesh22p1401b)
+<p align="right">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ritesh22p1401b&repo=github-visitors-badge&countColor=%237B1E7A" />
+   </a>
+</p>
+
+<!--![Visitors Batch](https://visitor-badge.laobi.icu/badge?page_id=Ritesh22p1401b.Ritesh22p1401b)-->
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
 
