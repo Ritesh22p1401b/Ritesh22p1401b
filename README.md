@@ -46,10 +46,9 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## &#x1f4c8; Ritesh's GitHub Stats
-| ![Ritesh GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34) |
-<a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b"><img align="center" alt="Top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true"/></a> |
 
-|----------|----------|
+![Ritesh GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34)<a href="https://github.com/Ritesh22p1401b/Ritesh22p1401b"><img align="center" alt="Top langs"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true"/></a>
+
 
 <div>
   <img src="https://www.gitclear.com/chart_glimpses/23ff3857-e91d-459c-9404-07d71d43b091.png" width="1920">
