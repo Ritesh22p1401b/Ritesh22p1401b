@@ -37,7 +37,7 @@
 ## 🔥 Streak Stats
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+
 <p align="right">
   <a href="#">
       <img src="https://api.visitorbadge.io/api/VisitorHit?user=Ritesh22p1401b&repo=github-visitors-badge&countColor=%237B1E7A" />
