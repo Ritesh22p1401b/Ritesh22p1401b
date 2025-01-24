@@ -36,8 +36,8 @@
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=https%3A%2F%2Fgithub.com%2FRitesh22p1401b&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=https%3A%2F%2Fgithub.com%2FRitesh22p1401b&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Ritesh22p1401b&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Ritesh22p1401b&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" /></a>
 
 
 <p align="right">
