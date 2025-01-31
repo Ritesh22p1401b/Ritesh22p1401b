@@ -55,7 +55,7 @@
 <hr>
 
 <div>
-  <img src="https://www.gitclear.com/chart_glimpses/23ff3857-e91d-459c-9404-07d71d43b091.png" width="1920">
+  <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" width="1920">
 </div>
 
 
