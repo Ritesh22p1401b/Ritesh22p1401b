@@ -52,7 +52,7 @@
 
   <!--<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true" />-->
 <!--   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=tokyonight&hide=other&langs_count=7&hide_border=true" > -->
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&langs_count=7&theme=github_dark" />
+ <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' /></a>
 
 
 
@@ -63,7 +63,10 @@
 <hr>
 
 <div>
-  <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" width="1920">
+<!--   <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" width="1920"> -->
+ <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" alt="GitClear Changelog Snapshot" width="100%">
+
+
 </div>
 
 
