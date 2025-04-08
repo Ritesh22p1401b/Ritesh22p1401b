@@ -46,16 +46,11 @@
 ## &#x1f4c8; Ritesh's GitHub Stats
 
 <div align="center">
-<!--   <img alt="Ritesh GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" /> -->
+
 <img alt="Ritesh GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117" />
 
 
-  <!--<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=buefy&hide_border=true" />-->
-<!--   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&theme=tokyonight&hide=other&langs_count=7&hide_border=true" > -->
- <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' /></a>
-
-
-
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&langs_count=7&theme=github_dark" />
 
 
 </div>
@@ -63,9 +58,8 @@
 <hr>
 
 <div>
-<!--   <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" width="1920"> -->
- <img src="https://www.gitclear.com/snap_changelogs/585ba3dd-f6ca-49f1-8a3f-a831acd05fbf.png" alt="GitClear Changelog Snapshot" width="100%">
 
+ <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' /></a>
 
 </div>
 
