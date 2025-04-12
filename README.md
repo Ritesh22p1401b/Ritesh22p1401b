@@ -50,7 +50,7 @@
 <img alt="Ritesh GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117" />
 
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&langs_count=7&theme=github_dark" />
+<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&langs_count=10&theme=github_dark" />
 
 
 </div>
