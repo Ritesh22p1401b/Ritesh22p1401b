@@ -46,26 +46,47 @@
 
 ## &#x1f4c8; Ritesh's GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
-<img alt="Ritesh GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117" />
+<img
+  alt="Ritesh GitHub Stats"
+  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
+  height="180"
+/>
 
+<img
+  alt="Top Languages"
+  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=20&theme=tokyonight"
+  height="180"
+/>
 
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&langs_count=8&theme=github_dark" />
-
-
-</div>
-
-<hr>
-
-
-
-<!-- <div style="text-align: center;">
-  <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'>
-    <img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' style="max-width: 100%; height: auto;" />
-  </a>
 </div> -->
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <img
+        alt="Ritesh GitHub Stats"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&hide_border=true&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
+        height="180"
+      />
+    </td>
+    <td>
+      <img
+        alt="Top Languages"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=20&hide_border=true&theme=tokyonight"
+        height="180"
+      />
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+<hr>
 
 
 <div align="center">
