@@ -46,36 +46,15 @@
 
 ## &#x1f4c8; Ritesh's GitHub Stats
 
-<!-- <div align="center">
-
-<img
-  alt="Ritesh GitHub Stats"
-  src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
-  height="180"
-/>
-
-<img
-  alt="Top Languages"
-  src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=20&theme=tokyonight"
-  height="180"
-/>
-
-</div> -->
-
-<!-- <p align="center">
-  <img alt="Ritesh GitHub Stats" height="155" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&hide_border=true&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117" />
-  <img alt="Top Languages" height="155" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight" />
-</p> -->
-
 <p align="center">
   <img
     alt="Ritesh GitHub Stats"
-    height="155"
+    height="180"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
   />
   <img
     alt="Top Languages"
-    height="155"
+    height="180"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight"
   />
 </p>
