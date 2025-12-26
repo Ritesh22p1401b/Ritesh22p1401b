@@ -64,20 +64,18 @@
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
+    <td align="center" valign="top">
       <img
         alt="Ritesh GitHub Stats"
-        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&hide_border=true&theme=github_dark"
-        height="160"
+        src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&hide_border=true&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
+        height="155"
       />
     </td>
-    <td>
+    <td align="center" valign="top">
       <img
         alt="Top Languages"
-        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=10&hide_border=true&theme=tokyonight"
-        height="160"
+        src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight"
+        height="155"
       />
     </td>
   </tr>
