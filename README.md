@@ -33,7 +33,8 @@
 
 ## 🔥 Streak Stats
 
-[![GitHub Streak](https://git-hub-streak-stats.vercel.app?user=Ritesh22p1401b&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Ritesh22p1401b&theme=dark)](https://git.io/streak-stats)
+
 
 <p align="right">
   <a href="#">
@@ -57,17 +58,13 @@
 
 <hr>
 
-<!--<div>
 
- <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'><img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' /></a>
 
-</div>-->
-
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <a href='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906' target='_blank'>
     <img src='https://www.gitclear.com/snap_changelogs/c647c9f2-f19b-410e-b9b4-6a021dfdb906.png' style="max-width: 100%; height: auto;" />
   </a>
-</div>
+</div> -->
 
 
 
