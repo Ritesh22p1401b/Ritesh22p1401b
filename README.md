@@ -1,9 +1,39 @@
 
-### Hi 👋, I'm Ritesh.
+# Hi 👋 I'm Ritesh Pandey  
 
-- I'm Python/Django Developer.
-🌱 I’m currently learning Rest API.
-- Learning DSA with C++ Programming Language.
+I’m a **project-oriented developer** focused on building practical, scalable, and intelligent applications across web, mobile, and AI domains. My work emphasizes real-world problem solving, clean architecture, and performance-driven development.
+
+---
+
+## 🚀 What I Build
+
+- 🤖 **AI / Machine Learning Systems**  
+  Crop recommendation systems, detection models, NLP workflows, and predictive analytics applications using structured datasets and model deployment pipelines.
+
+- 🌐 **Full-Stack Web Applications**  
+  Authentication systems, JWT-based APIs, dashboards, and dynamic front-end interfaces with modern backend integrations.
+
+- 📱 **Mobile Applications**  
+  Cross-platform apps using Flutter and Android-based projects with structured UI logic and state management.
+
+- ⚙️ **Backend & System Development**  
+  REST APIs, server-side logic, database integration, and performance-optimized application workflows.
+
+- 📊 **Data Structures & Algorithms**  
+  C++ implementations focused on problem solving, optimization techniques, and algorithmic efficiency.
+
+---
+
+## 📌 Focus Areas
+
+- Intelligent automation using ML  
+- Secure and scalable backend systems  
+- Performance-optimized algorithms  
+- Clean UI/UX with structured architecture  
+
+---
+
+I continuously explore new technologies, optimize systems for efficiency, and build projects that combine **logic, scalability, and real-world impact**.
 
 
 ---
