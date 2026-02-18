@@ -7,22 +7,67 @@ I’m a **project-oriented developer** focused on building practical, scalable, 
 
 ## 🚀 What I Build
 
-- 🤖 **AI / Machine Learning Systems**  
-  Crop recommendation systems, detection models, NLP workflows, and predictive analytics applications using structured datasets and model deployment pipelines.
+## 🤖 AI / Machine Learning Systems  
 
-- 🌐 **Full-Stack Web Applications**  
-  Authentication systems, JWT-based APIs, dashboards, and dynamic front-end interfaces with modern backend integrations.
+AI-Powered Person Identification System, Crop recommendation systems, detection models, NLP workflows, and predictive analytics applications using structured datasets and model deployment pipelines.
 
-- 📱 **Mobile Applications**  
-  Cross-platform apps using Flutter and Android-based projects with structured UI logic and state management.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecolab/googlecolab-original.svg" width="40"/>
+</p>
 
-- ⚙️ **Backend & System Development**  
-  REST APIs, server-side logic, database integration, and performance-optimized application workflows.
 
-- 📊 **Data Structures & Algorithms**  
-  C++ implementations focused on problem solving, optimization techniques, and algorithmic efficiency.
+## 🌐 Full-Stack Web Applications  
 
----
+Authentication systems, JWT-based APIs, dashboards, and dynamic front-end interfaces with modern backend integrations.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+</p>
+
+
+## 📱 Mobile Applications  
+
+Cross-platform apps using Flutter and Android-based projects with structured UI logic and state management.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+</p>
+
+
+## ⚙️ Backend & System Development  
+
+REST APIs, server-side logic, database integration, and performance-optimized application workflows.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
+
+## 📊 Data Structures & Algorithms  
+
+C++ implementations focused on problem solving, optimization techniques, and algorithmic efficiency.
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/>
+</p>
+
 
 ## 📌 Focus Areas
 
@@ -31,10 +76,7 @@ I’m a **project-oriented developer** focused on building practical, scalable, 
 - Performance-optimized algorithms  
 - Clean UI/UX with structured architecture  
 
----
-
 I continuously explore new technologies, optimize systems for efficiency, and build projects that combine **logic, scalability, and real-world impact**.
-
 
 ---
 ### 🧰 Languages and Tools
