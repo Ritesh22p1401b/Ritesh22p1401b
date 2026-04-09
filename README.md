@@ -3,7 +3,7 @@
 
 I’m a **project-oriented developer** focused on building practical, scalable, and intelligent applications across web, mobile, and AI domains. My work emphasizes real-world problem solving, clean architecture, and performance-driven development.
 
----
+
 
 ## 🚀 What I Build
 
