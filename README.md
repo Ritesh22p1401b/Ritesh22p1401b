@@ -98,7 +98,18 @@ Recommendation Systems · Predictive Analytics · Data Processing · Vector Sear
 
 ## 📈 Ritesh's GitHub Stats
 
-<p align="center"> <img alt="Ritesh GitHub Stats" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117" /> <img alt="Top Languages" height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight" /> </p>
+<p align="center">
+  <img
+    alt="Ritesh GitHub Stats"
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ritesh22p1401b&show_icons=true&include_all_commits=true&count_private=true&hide=html,css&title_color=ffffff&text_color=bbbbbb&icon_color=58A6FF&bg_color=0D1117"
+  />
+  <img
+    alt="Top Languages"
+    height="180"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ritesh22p1401b&layout=compact&show_icons=true&langs_count=8&hide_border=true&theme=tokyonight"
+  />
+</p>
 
 <hr>
 
